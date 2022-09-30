@@ -1,0 +1,136 @@
+.bodyyy{
+    font-family: "Corbel";
+}
+.header{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    line-height: 7px;
+}
+.text{
+    color: #14931F;
+}
+.text{
+    color: #14931F;
+    justify-content: center;
+}
+.button{
+    width: 80px;
+    height: 40px;
+    border: none;
+    background-color: #14931F;
+    color: white;
+    border-radius: 30px;
+    
+}
+.button2{
+    width: 150px;
+    height: 80px;
+    border: none;
+    background-color: #DFDBF5;
+    color: white;
+    border-radius: 30px;
+}
+.header2{
+    align-items: space-between ;
+    text-align: center;
+}
+.box{
+    box-sizing: border-box;
+    border: none solid ;
+    width: 150px;
+    height: 40px;
+    background: #DFDBF5;
+    border-radius: 20px;
+    align-items: baseline;
+}
+.main-cont{
+    background: #DFDBF5;
+    width: 1920px;
+    height: 400px;
+    align-items: center;
+    text-align: center; 
+}
+
+
+.text2{
+    color: #14931F;
+    justify-content: center;
+    font-size: 18px;
+}
+.text3{
+    justify-content: center;
+    font-size: 12px;
+}
+.text4{
+    color: white;
+    justify-content: center;
+    font-size: 18px
+}
+.grosh{
+   margin-left: -100px;
+   margin-bottom: -30px;
+}
+.ubicamojno{
+    margin-left: 70px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    border: none;
+   
+}
+.footer{
+    background: #14931F;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 1920px;
+    height: 100px;
+}
+.box3{
+    box-sizing: border-box;
+    border: none solid ;
+    width: 150px;
+    height: 200px;
+    background: white;
+    border-radius: 20px;
+    background-color: #14931F;
+    color: white;
+    margin: auto;
+   
+}
+.box4{
+    box-sizing: border-box;
+    border: none solid ;
+    width: 150px;
+    height: 200px;
+    background: white;
+    border-radius: 20px;
+    margin-top: -431px;
+    margin-left: 600px;
+}
+.box2{
+    box-sizing: border-box;
+    border: none solid ;
+    width: 150px;
+    height: 200px;
+    background: white;
+    border-radius: 20px;
+    margin: auto;
+}
+.button3{
+    border-radius: 20px;
+}
+.v123{
+background:rgba(243, 239, 239, 0.712);
+color: black;
+text-decoration: none;
+border-radius: 20px;
+margin-left: 70px;
+margin-bottom: 50px;
+}
+.vw123{background:white;
+    color: black;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-left: 70px;
+    margin-bottom: 50px;}
